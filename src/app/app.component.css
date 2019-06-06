@@ -1,0 +1,27 @@
+div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 15px;
+}
+
+button {
+  cursor: pointer;
+  color: white;
+  border-radius: 100%;
+  padding: 12px;
+  margin-left: 10px;
+}
+
+.add {
+  background-color: green;
+}
+
+.remove {
+  background-color: crimson;
+}
+
+h1 {
+  text-align: center;
+  color: darkblue;
+}
